@@ -1,0 +1,15 @@
+#1 
+2 kart secildiginde yeni kart secilmesini bloklayalim
+
+#2
+Ekranda skoru göster, sure bittiginde total skoru modal ya da popup icinde göster
+
+#3 
+kalan süreyi, zaman formatında yazalım. momentjs, time.js gibi yardımcı kütüphane kullanarak yapalım
+
+#4 
+eger tum eslesmeler bulunduysa oyunu bitir -> ekranda mesaj göster ve timer'ı sıfırla
+oyunu sifirla
+
+#5
+bug bulun :)
