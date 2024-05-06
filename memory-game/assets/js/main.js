@@ -7,11 +7,10 @@ const GAME_STATUSES = {
 };
 let gameStatus = GAME_STATUSES.idle;
 
-
 const timeEl = document.getElementById("game_actions_time");
 const grid = document.getElementById("grid");
 
-let choosenCards = []
+let choosenCards = [];
 
 function createBoard() {
   let gridCell = ROW * ROW;
